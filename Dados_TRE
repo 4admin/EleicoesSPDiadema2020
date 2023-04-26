@@ -1,4 +1,8 @@
 Dados dos votos de 1º e 2º Turnos  das eleições municipais de 2020 (prefeitos e vereadores) apresentados por seções eleitorais (com seu respectivo endereço) das cidades de São Paulo e Diadema. Podem ser baixados (679,6 MB, CSV) em:
 https://drive.google.com/file/d/1eVYCW98FKGjy1M83YXqf_kCQwV9Kw2zL/view?usp=sharing
 
+Relação de campos:
+CANDIDATO	NOME_URNA	NR_CANDIDATO	NOM_LOCALIDADE	ELEICAO	NM_CARGO	PARTIDO	COLIGA_PART	TIPO_VOTACAO	NRSECAO	LOCAL_VOTACAO	ENDERECO	QTVOTOS
+
+
 Dados entregues pelo TRE mediante solicitação e-SIC
